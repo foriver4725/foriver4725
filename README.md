@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm a third–year university student majoring in game development.  
-I started programming after entering university and have since worked on many personal projects as well as team-based productions in a student “AAA” development circle.
+I started programming after entering university and have since worked on many personal projects as well as team-based productions in a student [FUKKARU](https://github.com/FUKKARU) development circle.
 
 ### 🧰 Skills & Tools
 - **Languages:** C / C++, C#, Python
