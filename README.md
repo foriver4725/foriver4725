@@ -18,6 +18,10 @@ I enjoy working on low-level systems, building core foundations, and writing cle
 - Low-level systems and foundational architecture  
 - Project–driven tool selection  
 
+### 🎮 Favorite Games
+- **Genshin Impact**  
+- **Horror titles** (Ao Oni, Resident Evil, and more)
+
 ### 📩 Contact
 Email is the most reliable way to reach me.  
 Feel free to contact me anytime for collaboration, questions, or opportunities.
