@@ -13,11 +13,13 @@ Rather than mastering a single tool or language, I prefer choosing the technolog
 I enjoy working on low-level systems, building core foundations, and writing clean, efficient, and high–performance code.
 
 ### 🚀 Interests
-- Engine architecture  
-- Graphics programming  
-- Shader development  
-- Performance optimization  
-- Low-level memory and rendering systems  
+- Client-side programming  
+- Engine development  
+- Low-level systems and foundational architecture  
+- Project–driven tool selection  
 
-Thanks for visiting my profile!  
-Feel free to connect, collaborate, or reach out anytime 😄
+### 📩 Contact
+Email is the most reliable way to reach me.  
+Feel free to contact me anytime for collaboration, questions, or opportunities.
+
+Thanks for visiting my profile! 😄
