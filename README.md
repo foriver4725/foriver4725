@@ -1,29 +1,11 @@
-# Hi there 👋
+# foriver4725
 
-I'm a third–year university student majoring in game development.  
-I started programming after entering university and have since worked on many personal projects as well as team-based productions in a student [FUKKARU](https://github.com/FUKKARU) development circle.
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=unity,unreal)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)<br/>
 
-### 🧰 Skills & Tools
-- **Languages:** C / C++, C#, Python  
-- **Game Engines:** Unity, Unreal Engine  
-- **Tools:** Git  
-
-### 🎮 Development Philosophy
-Rather than mastering a single tool or language, I prefer choosing the technology that best fits the project.  
-I enjoy working on low-level systems, building core foundations, and writing clean, efficient, and high–performance code.
-
-### 🚀 Interests
-- Client-side programming  
-- Engine development  
-- Low-level systems and foundational architecture  
-- Project–driven tool selection  
-
-### 🎮 Favorite Games
-- **Genshin Impact**  
-- **Horror titles** (Ao Oni, Resident Evil, and more)
-
-### 📩 Contact
-Email is the most reliable way to reach me.  
-Feel free to contact me anytime for collaboration, questions, or opportunities.
-
-Thanks for visiting my profile! 😄
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=foriver4725&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=foriver4725&theme=github&exclude=ShaderLab)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=foriver4725&theme=github&exclude={})
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=foriver4725&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=foriver4725&theme=github&utcOffset=+9)
